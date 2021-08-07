@@ -1,0 +1,194 @@
+body{
+	background-color: linear-gradient(to bottom, #ffffff -4%, #999966 123%);
+	font-family: arial;
+}
+
+*{
+	margin: 0;
+	padding: 0;
+}
+
+.login{
+	margin: 0 auto;
+	width: 100%;
+	height: 80px;
+	background: #4367b1;
+}
+
+form{
+	float: right;
+	margin: 10px 200px;
+}
+
+label{
+	float: left;
+	margin: 10px 10px;
+	color: snow;
+	font-family: arial;
+	font-size: 13px;
+}
+
+input[type=submit]{
+	margin: 27px 0px;
+	width: 50px;
+	height: 25px;
+	color: snow;
+	background: #4367b1;
+	border: 1px solid #29497e;
+}
+
+input[type=text], input[type=password]{
+	width: 150px;
+	margin-top: 3px;
+	height: 25px;
+	border: 1px solid black;
+}
+
+.a{
+	text-align: center;
+	padding-top: 29px;
+	color: snow;
+}
+
+.tulisan{
+	padding: 30px;
+	float: left;
+	padding-left: 50px;
+}
+
+.tulisan p{
+	font-weight: bold;
+	font-size: 19px;
+	color: #4367b1;
+}
+
+.gambar{
+ 	margin-top: 120px;
+ 	padding-left: 50px;
+}
+
+.gambar img{
+	/*width: 300px;*/
+	height: 270px;
+}
+
+.b{
+	float: right;
+	padding-right: 353px;
+}
+
+.b h1{
+	padding: 12px;
+}
+
+.fcreate .in1{
+	padding-right: 20px;
+	margin-right: 15px;
+	height: 30px;
+	border-color: grey;
+	border-radius: 3px;
+}
+.fcreate .in2{
+	padding-right: 18px;
+	margin-right: 70px;
+	height: 30px;
+	border-color: grey;
+	border-radius: 3px;
+}
+
+.fcreate .nose{
+	margin-top: 15px;
+	padding-right: 214px;
+	height: 30px;
+	border-color: grey;
+	border-radius: 3px;
+}
+
+.fcreate .kasan{
+	margin-top: 15px;
+	padding-right: 214px;
+	height: 30px;
+	border-color: grey;
+	border-radius: 3px;
+}
+
+.fcreate h3{
+	margin-top: 18px;
+}
+
+.bio select{
+	margin-top: 12px;
+	padding-top: 5px;
+}
+
+.fcreate .mlink{
+	text-decoration: none;
+	font-size: 12px;
+	padding-left: 10px;
+}
+
+.lp:first-child{
+	margin-right: 4px;
+}
+
+.lp{
+	display: inline-block;
+	padding: 7px 0 7px 5px;
+}
+
+.lp .jk{
+	color: black;
+	padding-bottom: 6px;
+	font-size: 15px;
+	font-weight: bold;
+}
+
+.lp .ird{
+	margin-top: 8px;
+}
+
+.drgs button{
+	height: 38px;
+	width: 155px;
+	font-size: 19px;
+	border-radius: 4px;
+	color: white;
+	text-align: center;
+}
+ button{
+ 	background: #67ae55;
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

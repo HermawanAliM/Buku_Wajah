@@ -1,0 +1,35 @@
+body{
+    	margin: 0;
+    	font: normal 12px verdana, tahoma;
+	}
+	nav{
+	    display: block;
+	    background-color: #4267b2;
+	    padding-top: 13px;
+	}
+	nav a{
+		color: white;
+		text-decoration: none;
+	}
+	nav a:hover{ 
+		background-color: black; 
+	}
+	h1{
+		text-align: center;
+		color: white;
+		margin-left: -850px;
+		font-size: 25px;
+		padding-bottom: 13px;
+	}
+	.fb3 .inputtext{
+		float: right;
+	}
+	.menu_login .inputtext{
+		width: 142px;
+	}
+	.inputtext{
+		padding: 3px;
+	}
+	.menu_login, .fb2, .inputtext{
+		margin-bottom: 10px;
+	}
